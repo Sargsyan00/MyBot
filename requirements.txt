@@ -1,0 +1,10 @@
+apiai==1.2.3
+requests==2.7.0
+python-telegram-bot==10.1.0
+virtualenv==15.1.0
+pipenv==11.1.4
+simplejson==3.16.0
+json==3.16.0
+telegram==0.0.1
+telegram.ext==10.1.0
+package.json==3.16.0
